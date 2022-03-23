@@ -20,3 +20,4 @@ Note
 - This project was the exam delivery of the course "Programming 2" at "Inland Norway University of Applied Sciences".
 - There is no audio in the game, other than background music. This is because it was not among our priorities as we
   were not evaluated on this spesific subject.
+- Original repository with complete project history: https://github.com/Larsjoar96/LightGame/pulse
