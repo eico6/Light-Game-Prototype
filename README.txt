@@ -2,8 +2,8 @@ Description
 - The prototype "Light" is a short shooter/platformer game, with the intention of representing an idea for further development.
 
 Programmers
-- Eivind H. Naasen
-- Lars Joar Bjørkeland.
+- Eivind Hobrad Naasen
+- Lars Joar Bjørkeland
 	
 Artists 
 - Fritjof Jackwitz Berger 
@@ -19,4 +19,4 @@ Technical Data
 Note
 - This project was the exam delivery of the course "Programming 2" at "Inland Norway University of Applied Sciences".
 - There is no audio in the game, other than background music. This is because it was not among our priorities as we
-	were not evaluated on this spesific subject.
+  were not evaluated on this spesific subject.
