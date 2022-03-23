@@ -1,0 +1,32 @@
+// Written by Lars Joar Bjørkeland
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Animation/AnimInstance.h"
+#include "HeroAnimInstance.generated.h"
+
+//Taken from the UDEMY course
+/**
+ *
+ */
+UCLASS()
+class LIGHT_PROTOTYPE_API UHeroAnimInstance : public UAnimInstance
+{
+	GENERATED_BODY()
+public:
+
+	virtual void NativeInitializeAnimation() override;
+
+	UFUNCTION(BlueprintCallable)
+	void UpdateAnimationProperties();
+
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Movement")
+	bool bisInAir;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Movement")
+	class APawn* Pawn;
+
+
+};
