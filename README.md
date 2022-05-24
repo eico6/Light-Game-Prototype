@@ -13,13 +13,12 @@
 - Language: C++17
 
 ## Developers
-###### Programmers
-	- Eivind Hobrad Naasen
-	- Lars Joar Bjørkeland
-	
-###### Artists 
-	- Fritjof Jackwitz Berger 
-	- Marika Sofie Grøsfjeld
+###### Programmers:
+- Eivind Hobrad Naasen
+- Lars Joar Bjørkeland
+###### Artists: 
+- Fritjof Jackwitz Berger 
+- Marika Sofie Grøsfjeld
 
 ## Preview
 ![](light_preview.gif)
