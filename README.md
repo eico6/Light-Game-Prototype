@@ -14,12 +14,12 @@
 
 ## Developers
 ###### Programmers
-- Eivind Hobrad Naasen
-- Lars Joar Bjørkeland
+	- Eivind Hobrad Naasen
+	- Lars Joar Bjørkeland
 	
 ###### Artists 
-- Fritjof Jackwitz Berger 
-- Marika Sofie Grøsfjeld
+	- Fritjof Jackwitz Berger 
+	- Marika Sofie Grøsfjeld
 
 ## Preview
 ![](light_preview.gif)
